@@ -1,0 +1,35 @@
+.container{
+  position: absolute;
+  left:70%;
+  top:10%;
+}
+.section2{
+  position: absolute;
+  top:40%;
+  margin-left: 1rem;
+}
+.section3{
+  position: absolute;
+  top:50%;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+.section4{
+  position: absolute;
+  top:75%;
+  margin-left: 1rem;
+}
